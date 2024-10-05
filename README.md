@@ -1,0 +1,1 @@
+This Java code takes characteristics of animals and inherits them from their class.
